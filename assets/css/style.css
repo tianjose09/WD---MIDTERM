@@ -10,6 +10,8 @@
 .header{
     background-color: aquamarine;
     height: 50%;
+    background-image: url(/assets/img/COFFE.jpg);
+    background-size: cover;
 }
 .header h1{
     display: flex;
